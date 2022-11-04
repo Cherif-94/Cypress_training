@@ -1,0 +1,14 @@
+{
+  "name": "asma_training",
+  "version": "1.0.0",
+  "description": "Training_Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asma",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.11.0"
+  }
+}
